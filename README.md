@@ -46,11 +46,15 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
+```
 
-## Usage
+
+## User Story
+
 This is a great text editor that can be used for professional or personal use 
 
-## Contributing
+ ## Contributing
+
 Thank you to DU for the starter code 
 Collaborated with Johnny McGrown
 
